@@ -1,0 +1,9 @@
+{
+    "name": "redirector",
+    "env": {
+        "REDIRECT_URL":{
+            "description": "Target URL (e.g. https://example.com)",
+            "required": true
+        }
+    }
+}
